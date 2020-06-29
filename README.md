@@ -1,2 +1,2 @@
 # projectworkce.github.io
-The website for my course era projects
+The website is for my course era projects
